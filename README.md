@@ -34,8 +34,8 @@ Activate your virtual environment (if created). Then, install the required libra
 
    Use code with caution.
 
-   ```bash
-   python simulate_brownian_motion.py
+      ```bash
+      python simulate_brownian_motion.py
 
 
 Use code with caution.
