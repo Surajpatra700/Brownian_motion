@@ -38,3 +38,7 @@ Activate your virtual environment (if created). Then, install the required libra
 
 Use code with caution.
 This will generate a video file named "brownian_motion.mp4" visualizing the robot's trajectory within the arena.
+
+### youtube link:
+
+[youtube](https://youtu.be/iSwJCloTMt8)
