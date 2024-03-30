@@ -22,8 +22,8 @@ Using a virtual environment helps isolate project dependencies from your system-
 
 Activate your virtual environment (if created). Then, install the required libraries using pip:
 
-```bash
-pip install numpy matplotlib
+   ```bash
+   pip install numpy matplotlib
 
 ### Running the Simulation
 
