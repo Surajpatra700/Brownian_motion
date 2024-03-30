@@ -32,6 +32,8 @@ Activate your virtual environment (if created). Then, install the required libra
    ```bash
    cd Brownian_motion
 
+   Use code with caution.
+
    ```bash
    python simulate_brownian_motion.py
 
