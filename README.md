@@ -28,14 +28,10 @@ Activate your virtual environment (if created). Then, install the required libra
 ### Running the Simulation
 
 1. Open a terminal or command prompt and navigate to the project directory:
-
+   
    ```bash
-   cd Brownian_motion
-
-   Use code with caution.
-
-      ```bash
-      python simulate_brownian_motion.py
+    cd Brownian_motion
+    python simulate_brownian_motion.py
 
 
 Use code with caution.
