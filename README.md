@@ -25,16 +25,16 @@ Activate your virtual environment (if created). Then, install the required libra
     ```bash
     pip install numpy matplotlib
 
-4. **Running the Simulation**
+### Running the Simulation
 
 1. Open a terminal or command prompt and navigate to the project directory:
 
-Bash
-cd Brownian_motion
-Use code with caution.
-Run the simulation script:
+   ```bash
+   cd Brownian_motion
 
-Bash
-python simulate_brownian_motion.py
+   ```bash
+   python simulate_brownian_motion.py
+
+
 Use code with caution.
 This will generate a video file named "brownian_motion.mp4" visualizing the robot's trajectory within the arena.
